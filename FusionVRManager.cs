@@ -207,7 +207,9 @@ namespace Fusion.VR
         /// <param name="Name">The string you want the Fusion nickname to be</param>
         public static void SetUsername(string Name)
         {
-            Name = Name.Substring(0, 32);
+            int maxNameLenght = 32;
+            if (Name.Length > maxNameLenght)
+                Name = Name.Substring(0, maxNameLenght); // Just in case somebody is trying to set the entire 
             if (FusionVRPlayer.localPlayer != null)
             {
                 if (FusionVRPlayer.localPlayer.NickName != Name)
