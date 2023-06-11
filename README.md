@@ -2,7 +2,7 @@
 
 A Unity Package containing all the necessary components to do VR networking with [Photon Fusion](https://www.photonengine.com/fusion)
 
-[![Download](https://img.shields.io/badge/Download-blue.svg)](https://glosbe.com/en/en/SoonTM)
+[![Download](https://img.shields.io/badge/Download-blue.svg)](https://github.com/fchb1239/FusionVR/releases/tag/1.0.0)
 [![Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/rRvnU846Bf)
 
 ![FusionPreview1](https://github.com/fchb1239/FusionVR/assets/29258204/dd51f353-cbea-4947-896f-da7525317d4f)
