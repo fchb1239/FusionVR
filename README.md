@@ -11,13 +11,18 @@ A Unity Package containing all the necessary components to do VR networking with
 The recommended Unity version is [2021.3.25.1](https://unity.com/releases/editor/whats-new/2021.3.25).
 
 Start off by finding the player in the [Resources folder](https://docs.unity3d.com/Manual/BestPracticeUnderstandingPerformanceInUnity6.html), press on it and you'll be met with this dialog.
+
 ![image](https://github.com/fchb1239/FusionVR/assets/29258204/23ebf9d5-6833-42b6-b637-5f19e063af91)
+
 Press Import TMP Essentials.
 
 After that navigate to Resources/FusionVR/Prefabs.
+
 ![image](https://github.com/fchb1239/FusionVR/assets/29258204/0f1e3eed-0852-48bb-859e-db4b7051fe1d)
+
 Then drag FusionVRManager into your scene. There should only be 1 manager in the entire game. The manager will therefore mark itself your player as "DontDestroyOnLoad".
 The manager will automatically attempt to fill out the required fields
+
 ![image](https://github.com/fchb1239/FusionVR/assets/29258204/b65946cd-4a84-4203-abd6-67b6ab59eae1)
 
 Including Fusion.VR
