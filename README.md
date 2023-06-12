@@ -10,7 +10,7 @@ A Unity Package containing all the necessary components to do VR networking with
 # Documentation
 The recommended Unity version is [2021.3.25.1](https://unity.com/releases/editor/whats-new/2021.3.25).
 
-You need the [Photon Fusion SDK](https://doc.photonengine.com/fusion/current/getting-started/sdk-download) and [Photon Voice]([https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518)) installed to proceed.
+You need the [Photon Fusion SDK](https://doc.photonengine.com/fusion/current/getting-started/sdk-download) and [Photon Voice](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518) installed to proceed.
 
 If you are having trouble with Voice, please read [Fusion Voice Intergration Docs](https://doc.photonengine.com/voice/current/getting-started/voice-for-fusion)
 
