@@ -31,7 +31,7 @@ The manager will automatically attempt to fill out the required fields
 
 Including Fusion.VR
 ```cs
-include Fusion.VR
+using Fusion.VR
 ```
 
 Connecting to servers
