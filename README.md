@@ -2,6 +2,8 @@
 
 A Unity Package containing all the necessary components to do VR networking with [Photon Fusion](https://www.photonengine.com/fusion)
 
+NOTE: FusionVR is still in beta, bugs, issues, unfinished features and such are to be expected.
+
 [![Download](https://img.shields.io/badge/Download-blue.svg)](https://github.com/fchb1239/FusionVR/releases/tag/1.0.0)
 [![Discord](https://img.shields.io/badge/Discord-blue.svg)](https://discord.gg/rRvnU846Bf)
 
